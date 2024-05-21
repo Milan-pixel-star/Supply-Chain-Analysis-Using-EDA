@@ -1,5 +1,4 @@
 # Supply-Chain-Analysis-Using-EDA
-Absolutely, here's a draft README file description for your Supply Chain Project:
 
 **Supply Chain Analysis - Python Script**
 
