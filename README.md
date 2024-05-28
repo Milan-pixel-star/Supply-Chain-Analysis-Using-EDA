@@ -1,6 +1,6 @@
 # Supply-Chain-Analysis-Using-EDA
 
-**Supply Chain Analysis - Python Script**
+**Supply Chain Analysis  Python Script**
 
 This script provides a comprehensive analysis of a sample supply chain dataset using Python libraries like Pandas and Plotly. It offers insights into various aspects of the supply chain, including:
 
